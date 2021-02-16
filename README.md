@@ -3,6 +3,11 @@ This is just for testing
 
 This is another Branch
 
+ 
 Yet another Branch
 
-yet 2 branches
+Another Branch with atom
+
+Another Branch with vi
+
+yet2branches
