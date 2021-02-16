@@ -5,4 +5,4 @@ This is another Branch
 
 Yet another Branch
 
-yet 2 brancches
+yet 2 branches
